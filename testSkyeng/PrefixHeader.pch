@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  testSkyeng
+//
+//  Created by Andrew on 14.04.16.
+//  Copyright © 2016 Andrew. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+@import UIKit;
+
+#import "Masonry.h"
+
+#endif /* PrefixHeader_pch */
